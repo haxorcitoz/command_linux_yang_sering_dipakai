@@ -1,0 +1,1 @@
+# command_linux_yang_sering_dipakai
