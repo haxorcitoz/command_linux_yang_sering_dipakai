@@ -23,3 +23,4 @@
   6. `sudo pishrink.sh -z pibackupimg.img`
 * Agar script bisa dijalankan langsung via terminal, pindahkan ke `/usr/local/bin`
 * [Rpi Access Point](https://www.tomshardware.com/how-to/raspberry-pi-access-point)
+* [Membuat daemon service](https://www.linuxsec.org/2020/11/membuat-daemon-process-dengan-systemd.html)
