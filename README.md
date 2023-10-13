@@ -26,3 +26,10 @@
 * [Rpi Access Point](https://www.tomshardware.com/how-to/raspberry-pi-access-point)
 * [Membuat daemon service](https://www.linuxsec.org/2020/11/membuat-daemon-process-dengan-systemd.html)
 * [Mengirim email menggunakan python](https://myhydropi.com/send-email-with-a-raspberry-pi-and-python/)
+* VNC server
+  1. Install VNC server `sudo apt install tightvncserver`
+  2. Jalankan VNC server dengan command `vncserver :1`
+  3. Setting seperlunya
+  4. Buat autostart dengan cara mengedit file rc.local dengan command `sudo nano /etc/rc.local`
+  5. Tambahkan perintah `su - nama_user -c '/usr/bin/vncserver'` sebelum `exit 0`
+  6. Restart
