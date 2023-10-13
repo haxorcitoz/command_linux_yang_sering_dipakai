@@ -33,3 +33,5 @@
   4. Buat autostart dengan cara mengedit file rc.local dengan command `sudo nano /etc/rc.local`
   5. Tambahkan perintah `su - nama_user -c '/usr/bin/vncserver'` sebelum `exit 0`
   6. Restart
+* [Membuat user baru di Debian](https://www.cloudpanel.io/tutorial/how-to-add-user-to-sudoers-in-debian/)
+* [Mengganti password user di Debian](https://nordpass.com/blog/how-to-change-password-linux/)
