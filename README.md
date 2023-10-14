@@ -12,6 +12,7 @@
 * `screen -d` untuk detach screen
 * `sudo nano /etc/dhcpcd.conf`
 * `sudo nano /boot/config.txt`
+* [GPG key depreciation](https://askubuntu.com/questions/1407632/key-is-stored-in-legacy-trusted-gpg-keyring-etc-apt-trusted-gpg)
 * [Slow Chromium](https://forums.raspberrypi.com/viewtopic.php?t=332018)
 * [Github Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Using Nano](https://kb.iu.edu/d/aeug#:~:text=To%20delete%20the%20character%20highlighted,line%2C%20press%20Ctrl%2Dk%20.)
