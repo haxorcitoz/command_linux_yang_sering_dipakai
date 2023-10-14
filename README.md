@@ -39,3 +39,4 @@
   6. Restart
 * [Membuat user baru di Debian](https://www.cloudpanel.io/tutorial/how-to-add-user-to-sudoers-in-debian/)
 * [Mengganti password user di Debian](https://nordpass.com/blog/how-to-change-password-linux/)
+* [Wifi nmcli](https://askubuntu.com/questions/461825/how-to-connect-to-wifi-from-the-command-line/461831#461831)
