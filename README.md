@@ -6,6 +6,7 @@
 * `sudo systemctl daemon-reload`
 * `sudo service cron reload` atau `/etc/init.d/cron reload` untuk reload crontab
 * `kill -9` PID
+* `screen -XS sessions_id quit` kill screen
 * `ps aux | grep` process-yang _dicari
 * `sudo nano /etc/systemd/system/` nama.service
 * `screen -d` untuk detach screen
