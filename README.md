@@ -39,4 +39,10 @@
   6. Restart
 * [Membuat user baru di Debian](https://www.cloudpanel.io/tutorial/how-to-add-user-to-sudoers-in-debian/)
 * [Mengganti password user di Debian](https://nordpass.com/blog/how-to-change-password-linux/)
-* [Wifi nmcli](https://askubuntu.com/questions/461825/how-to-connect-to-wifi-from-the-command-line/461831#461831)
+* nmcli wifi
+  1. `nmcli dev status` cek device status
+  2. `nmcli radio wifi` cek status wifi enable atau disable, untuk enable pakai `nmcli radio wifi on`
+  3. `nmcli dev wifi list` cek access point yang ada
+  4. `sudo nmcli dev wifi connect network-ssid` konek ke open wifi
+  5. `sudo nmcli dev wifi connect network-ssid password "network-password"` konek ke wpa2 wifi
+  6. `sudo nmcli dev wifi connect network-ssid password "network-password" ifname wlan??` konek ke wpa2 dengan specified wireless interface
