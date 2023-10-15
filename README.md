@@ -47,3 +47,4 @@
   5. `sudo nmcli dev wifi connect network-ssid password "network-password"` konek ke wpa2 wifi
   6. `sudo nmcli dev wifi connect network-ssid password "network-password" ifname wlan??` konek ke wpa2 dengan specified wireless interface
   7. Untuk disconnect cek dahulu device status dengan command `nmcli dev status` kemudian gunakan command `nmcli con down id connection_name`
+  8. Untuk forget cek dahulu device status dengan command `nmcli dev status` kemudian gunakan command `nmcli connection delete CONNECTION_NAME`
