@@ -48,3 +48,4 @@
   6. `sudo nmcli dev wifi connect network-ssid password "network-password" ifname wlan??` konek ke wpa2 dengan specified wireless interface
   7. Untuk disconnect cek dahulu device status dengan command `nmcli dev status` kemudian gunakan command `nmcli con down id connection_name`
   8. Untuk forget cek dahulu device status dengan command `nmcli dev status` kemudian gunakan command `nmcli connection delete CONNECTION_NAME`
+* [Wifi Hotspot](http://www.orangepi.org/orangepiwiki/index.php/AP6275P_PCIe_NIC_creates_WIFI_hotspot_via_create_ap)
