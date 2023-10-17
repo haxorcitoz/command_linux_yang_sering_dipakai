@@ -49,3 +49,4 @@
   7. Untuk disconnect cek dahulu device status dengan command `nmcli dev status` kemudian gunakan command `nmcli con down id connection_name`
   8. Untuk forget cek dahulu device status dengan command `nmcli dev status` kemudian gunakan command `nmcli connection delete CONNECTION_NAME`
 * [Wifi Hotspot](http://www.orangepi.org/orangepiwiki/index.php/AP6275P_PCIe_NIC_creates_WIFI_hotspot_via_create_ap)
+* [The following packages have been kept back](https://itsfoss.com/following-packages-have-been-kept-back/)
