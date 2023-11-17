@@ -18,6 +18,8 @@
 * [Github Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Using Nano](https://kb.iu.edu/d/aeug#:~:text=To%20delete%20the%20character%20highlighted,line%2C%20press%20Ctrl%2Dk%20.)
 * [Set static ip](https://medium.com/digital-software-architecture/raspberry-pi-headless-configuration-ac0a3a31d184)
+* Static ip bisa juga menggunakan `nmtui`
+* Cek gpio di orangepi `gpio readall`
 * [Shrink Pi Backup Image](https://github.com/Drewsif/PiShrink)
   1. `lsblk`
   2. `sudo mkdir /dev/myusb`
